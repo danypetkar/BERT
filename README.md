@@ -11,9 +11,9 @@ BERT builds on top of a number of clever ideas that have been bubbling up in the
 ## Model Architecture
 Two model sizes for BERT:
 
-•	BERT BASE – Comparable in size to the OpenAI Transformer in order to compare performance.
+•	**BERT BASE** – Comparable in size to the OpenAI Transformer in order to compare performance.
 
-•	BERT LARGE – A ridiculously huge model which achieved the state of the art results.
+•	**BERT LARGE** – A ridiculously huge model which achieved the state of the art results.
 
 #### BERT is basically a trained Transformer Encoder stack.
 
