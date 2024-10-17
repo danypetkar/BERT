@@ -33,7 +33,7 @@ Each position outputs a vector of size hidden_size (768 in BERT Base). For the s
 
 That vector can now be used as the input for a classifier of our choosing. The paper achieves great results by just using a single-layer neural network as the classifier.
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/danypetkar/BERT/blob/main/Screenshot%202024-10-16%20183620.png)
 
 #### Using bidirectionally, BERT is pretrained on two different but related NLP tasks: Masked language modelling (MLM) and next sentence prediction (NSP)
 ## Masked Language Model (MLM):
