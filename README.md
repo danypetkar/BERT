@@ -20,7 +20,7 @@ Two model sizes for BERT:
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/danypetkar/BERT/blob/main/Screenshot%202024-10-16%20182930.png)
 
 ## Model Inputs
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
